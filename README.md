@@ -13,14 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shyam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam pandey" height="30" width="40" /></a>
-<a href="https://fb.com/shyam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shyam pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/shyam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam pandey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shyam pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shyam pandey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shyam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shyam pandey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shyampandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyampandey" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shyampanhl30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shyampanhl30" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/1323336286546825306/1323336385192656976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1323336286546825306/1323336385192656976" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shyam-pandey-07036027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam pandey" height="30" width="40" /></a>
+<a href="[https://auth.geeksforgeeks.org/user/shyampanhl30](https://www.geeksforgeeks.org/user/shyampanhl30/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shyampanhl30" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shyampandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyampandey" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shyam__pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shyam pandey" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/shyampandey2625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shyam pandey" height="30" width="40" /></a>
+<a href="https://discord.com/channels/1424049631524032512/1424049631968362661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1323336286546825306/1323336385192656976" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
