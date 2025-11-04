@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyam-123pandey" alt="shyam-123pandey" /></a> </p>
 
-- 🔭 I’m currently working on **Tourist Project**
+- 🔭 I’m currently working on **Own Startup**
 
 - 📝 I regularly write articles on [DSA](DSA)
 
