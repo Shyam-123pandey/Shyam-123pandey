@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Pandey</h1>
-<h3 align="center">A passionate Full Stack developer and Interested in SDE from India</h3>
+<h3 align="center">Passionate Full Stack Developer | Aspiring Software Development Engineer (SDE) | App Developer | AI/ML Enthusiast | DevOps Learner | Problem Solver | Competitive Programmer | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-123pandey&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-123pandey" /> </p>
 
