@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Full Stack Developer | Aspiring Software Development Engineer (SDE) | App Developer | AI/ML Enthusiast | DevOps Learner | Problem Solver | Competitive Programmer | India<br> <br> 🔭 I’m currently working on Large Product Based Company (Oracle) <br><br>⚡ Protfolio https://shyam.social<br><br>📫 How to reach me shyampandey2625@gmail.com<br><br>📄 Resume https://drive.google.com/file/d/1ZVtWS7dcdzAMzyfAo1u2F3XFErqBP8O7/view
+Passionate Full Stack Developer | Aspiring Software Development Engineer (SDE) | App Developer | AI/ML Enthusiast | DevOps Learner | Problem Solver | Competitive Programmer | India<br> <br> 🔭 I’m currently working on Large Product Based Company (Oracle) <br><br>⚡ Protfolio https://shyam.social<br><br>📫 How to reach me shyampandey2625@gmail.com<br>
 
 
 ## 🌐 Socials:
